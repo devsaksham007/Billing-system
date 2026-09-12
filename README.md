@@ -1,4 +1,21 @@
-# Library Management System
+# Python OOP Examples
+
+## Billing System
+
+`billing_system.py` demonstrates an object-oriented billing workflow with:
+
+- `Product` and `Bill` classes with constructors
+- Tax, subtotal, and final-total calculations
+- Inheritance and polymorphism through `DiscountedProduct(Product)`
+- Custom exception handling for invalid products and bills
+- Tabular final-bill output
+- Uses `math`, `random`, and `datetime`
+
+Run it with:
+
+```bash
+python billing_system.py
+```
 
 ## Calculator Class With Exception Handling
 
