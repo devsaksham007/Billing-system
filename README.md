@@ -1,5 +1,17 @@
 # Library Management System
 
+## Calculator Class With Exception Handling
+
+`calculator.py` demonstrates classes, objects, constructors, inheritance,
+polymorphism, custom exception handling, and the `math`, `random`, and
+`datetime` modules.
+
+Run it with:
+
+```bash
+python calculator.py
+```
+
 An object-oriented Python example for managing books and library members.
 
 ## Features
